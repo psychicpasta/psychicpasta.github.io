@@ -1,0 +1,10 @@
+﻿  ViewManager.cpp
+C:\Users\ajman\Desktop\School\CS 499\Category_One_Artifacts_Manick\Projects\Category1Enhanced\Source\ViewManager.cpp(133,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ajman\Desktop\School\CS 499\Category_One_Artifacts_Manick\Projects\Category1Enhanced\Source\ViewManager.cpp(134,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ajman\Desktop\School\CS 499\Category_One_Artifacts_Manick\Projects\Category1Enhanced\Source\ViewManager.cpp(139,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ajman\Desktop\School\CS 499\Category_One_Artifacts_Manick\Projects\Category1Enhanced\Source\ViewManager.cpp(140,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ajman\Desktop\School\CS 499\Category_One_Artifacts_Manick\Projects\Category1Enhanced\Source\ViewManager.cpp(143,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ajman\Desktop\School\CS 499\Category_One_Artifacts_Manick\Projects\Category1Enhanced\Source\ViewManager.cpp(144,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ajman\Desktop\School\CS 499\Category_One_Artifacts_Manick\Projects\Category1Enhanced\Source\ViewManager.cpp(154,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ajman\Desktop\School\CS 499\Category_One_Artifacts_Manick\Projects\Category1Enhanced\Source\ViewManager.cpp(301,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\ajman\Desktop\School\CS 499\Category_One_Artifacts_Manick\Projects\Category1Enhanced\Debug\7-1_FinalProjectMilestones.exe
