@@ -52,5 +52,5 @@ I did meet the course outcomes I planned to. With the security updates, it prove
 
 When it came time to implement the security aspect, I thought back to my CS 305 course. There was an assignment where you had to write a hash function to encrypt a password and password input so it was not stored in the code in plain text. I used the same SHA-256 hash encryption and was able to reuse that function. I learned how important it is to keep old projects because you never know when it will come in hand for another.
 
-############################################################################################
+################################################################
 --
