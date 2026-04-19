@@ -1,4 +1,8 @@
-# psychicpasta.github.io
+# CS 499 Final Project
 
-Below is the link to the code review done for the enhancements:
+The following code review outlines the original artifacts that were set to be enhanced in line with the three catergories:\n
+1. Software design and engineering
+2. Algorithms and data structure
+3. Databases
+   
 [Adam Manick: CS 499 Code Reivew](https://youtu.be/cWCt0xwkDtE)
