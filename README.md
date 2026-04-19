@@ -6,7 +6,7 @@ The following code review outlines the original artifacts that were set to be en
 3. Databases
    
 ### [Adam Manick: CS 499 Code Reivew](https://youtu.be/cWCt0xwkDtE)
-
+###
 ## Category One : Software Design and Engineering
 ### Artifact : 3D Replica Scene - CS 330 Computer Graphics and Visualization
 ### [Original Artifact](https://github.com/psychicpasta/psychicpasta.github.io/tree/main/Category1OriginalArtifact)
