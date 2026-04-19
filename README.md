@@ -9,7 +9,7 @@ The following code review outlines the original artifacts that were set to be en
 
 ## Category One : Software Design and Engineering
 ### Artifact : 3D Replica Scene - CS 330 Computer Graphics and Visualization
-### [Original Artifact](Category1OriginalArtifact)
+### [Original Artifact](https://github.com/psychicpasta/psychicpasta.github.io/tree/main/Category1OriginalArtifact)
 
 
 
